@@ -14,7 +14,7 @@ Instead, here's the current workflow:
 4. Once all nodes have started, SSH into the master node
 5. Go to the default project directory and start a Clojure REPL
 
-Please be aware before kicking off step 3. that Vagrant will download and decompress a base image before starting the first time.   Also you can optionally supply a `MESOS_SLAVES=<count>` environment variable in step 3 to
+Please be aware before kicking off step 3 that Vagrant will download and decompress a base image before starting the first time.   Also you can optionally supply a `MESOS_SLAVES=<count>` environment variable in step 3 to
 create the desired number of slaves too. Default is 2.
 
 ```
