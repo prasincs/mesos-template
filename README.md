@@ -16,7 +16,7 @@ Instead, here's the current workflow:
 
 Step 3 notes:
 - Vagrant will download and decompress a base image before starting the first time.  
-- Also you can optionally supply a `MESOS_SLAVES=<count>` environment variable. Default is 2.
+- You can optionally supply a `MESOS_SLAVES=<count>` environment variable. Default is 2.
 
 ```
 git clone https://github.com/prasincs/mesos-template.git
