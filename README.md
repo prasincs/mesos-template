@@ -2,6 +2,13 @@
 
 A Leiningen template for building a mesos framework using Clojure.
 
+## Prereqs
+
+Install the following:
+- [Leiningen](http://leiningen.org)
+- [Vagrant](https://www.vagrantup.com)
+- [VirtualBox](https://www.virtualbox.org/)
+
 ## Usage
 
 It hasn't been released, so you can't use `lein new mesos-framework` yet.
