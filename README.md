@@ -5,7 +5,8 @@ A Leiningen template for building a mesos framework using Clojure.
 ## Usage
 
 It hasn't been released, so you can't use `lein new mesos-framework` yet.
-Instead here's the workflow:
+
+Instead, here's the current workflow:
 
 1. Clone this repository
 2. From the cloned repository's root directory, run Leiningen with the mesos-framework template
